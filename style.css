@@ -1,0 +1,12 @@
+/* Styles go here */
+
+.strike {
+    text-decoration: line-through;
+}
+
+div #listItem {
+    vertical-align: middle;
+    padding-left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
